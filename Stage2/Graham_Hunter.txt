@@ -1,1 +1,1 @@
-
+I define the attributes of memberships clients, classes, trainers, and competitions. I collaborated with Dominic on the menu and relationships.
