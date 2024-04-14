@@ -1,0 +1,22 @@
+I have created the following classes along with the methods used in them:
+AddClientToMembership
+AddNewClient
+Client
+ClientFile
+DisplayClientInformation
+EditClientInformation
+Membership
+MembershipFile
+Person
+RemoveClient
+RemoveClientFromMembership
+ShowMembershipTiers
+
+I have also edited the StaffFile to utilize person as a inheritance same with ClientFile.
+
+I have also created a good portion of the main menu.
+I have created the main menu of having the main choices Client, Membership, and Exit along with the client menu and membership menu. I also created the premade staff and clients that will be utilized in the program as examples. I also added the private static for ClientFile and MembershipFile along with the scanner systems.
+
+I also have helped with preplanning out the design of the program along with initial UML but Catalin made majority of UML's and finalized them all.
+
+I also test ran the program multiple times to ensure that what was edited and added works with everything else and does not break the program.
