@@ -15,7 +15,8 @@ I have created the following classes with the methods:
 
 I also created half of the menu, the part of the classes I created. 
 
-Dominic and I, we both worked on the UML diagram.
+Dominic and I, we both worked on the UML diagram and I created the PDF explaining on how the UML works 
+because we changed it completely from the other one.
 
 I also created the Brief User Guide with Dominic's help.
 
