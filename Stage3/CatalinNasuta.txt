@@ -1,0 +1,24 @@
+
+I have created the following classes with the methods:
+-AddCompetition
+-AddStaff
+-Competition
+-CompetitionFile
+-DisplayStaff
+-EditCompetition
+-EditStaff
+-RemoveCompetetition
+-RemoveStaff\
+-ShowCompetitionInformation
+-Staff
+-StaffFile 
+
+I also created half of the menu, the part of the classes I created. 
+
+Dominic and I, we both worked on the UML diagram.
+
+I also created the Brief User Guide with Dominic's help.
+
+Besides, I also did the readme.txt on how to compile and run the program.
+
+I submitted and uploaded all the work on the GitHub repository. 
