@@ -1,0 +1,1 @@
+I have created the entire main menu, client options and any other gui along with it same goes for the membership side of it. I also had to take over and create the staff gui and competitions gui on a short notice so I do not expect it to be perfect. Catalin tried his best on creating his side which is the staff/competition but I had to help create it all.
