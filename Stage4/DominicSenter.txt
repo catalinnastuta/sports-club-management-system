@@ -1,0 +1,1 @@
+I have created the main menu with the client/membership options and the exit functioning, client options and any other gui along with it same goes for the membership side of it. Catalin did the competitions and staff side of it with me assisting him when he needed help. We both created the txt, and pdfs.
