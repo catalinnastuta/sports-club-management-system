@@ -1,0 +1,3 @@
+I created part of the main menu, staff and competitions. 
+
+We both worked in the readme, uml and breaf user guide togheter.
